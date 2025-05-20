@@ -8,6 +8,7 @@ dependencies = [
     "duckduckgo-search>=8.0.2",
     "langchain-community>=0.3.24",
     "langchain-gigachat>=0.3.10",
+    "langchain-tavily>=0.1.6",
     "langgraph>=0.4.5",
     "python-dotenv>=1.1.0",
     "rich>=14.0.0",
